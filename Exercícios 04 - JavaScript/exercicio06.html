@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exercício 06</title>
+</head>
+<body>
+    <div id="fundo">
+        <p id="paragrafo">
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore, assumenda
+            nihil! Eius omnis ab velit vero itaque excepturi, est ipsum provident ratione 
+            error amet perferendis libero quod, nulla quae suscipit?
+        </p>
+    </div>
+    <table>
+        <thead>
+            <th>Fonte</th>
+            <th>Fundo</th>
+        </thead>
+        <tbody>
+            <td>
+                <input onclick="fonteBranca()" name="fonte" id="fonteBranca" type="radio">Fonte Branca
+                <br>
+            </td>
+            <td>
+                <input onclick="fundoBranco()" name="fundo" id="fundoBranco" type="radio">Fundo Branco
+                <br>
+            </td>
+        </tbody>
+        <tr>
+            <td>
+                <input onclick="fontePreta()" name="fonte" id="fontePreta" type="radio">Fonte Preta
+                <br>
+            </td>
+            <td>
+                <input onclick="fundoPreto()" name="fundo" id="fundoPreto" type="radio">Fundo Preto
+                <br>
+            </td>
+        </tr>
+    </table>   
+    <script>
+        function fonteBranca(){
+            document.getElementById("paragrafo").style.color = "white";
+        }
+        function fontePreta(){
+            document.getElementById("paragrafo").style.color = "black";
+        }
+        function fundoBranco(){
+            document.getElementById("fundo").style.backgroundColor = "white";
+        }
+        function fundoPreto(){
+            document.getElementById("fundo").style.backgroundColor = "black";
+        }
+    </script>
+</body>
+</html>

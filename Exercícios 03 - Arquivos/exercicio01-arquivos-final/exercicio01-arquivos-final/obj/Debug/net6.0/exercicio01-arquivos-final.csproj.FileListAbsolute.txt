@@ -1,0 +1,15 @@
+E:\trabalhos_avmb\Exercícios\Exercícios_03 - Arquivos\exercicio01-arquivos-final\exercicio01-arquivos-final\bin\Debug\net6.0\exercicio01-arquivos-final.exe
+E:\trabalhos_avmb\Exercícios\Exercícios_03 - Arquivos\exercicio01-arquivos-final\exercicio01-arquivos-final\bin\Debug\net6.0\exercicio01-arquivos-final.deps.json
+E:\trabalhos_avmb\Exercícios\Exercícios_03 - Arquivos\exercicio01-arquivos-final\exercicio01-arquivos-final\bin\Debug\net6.0\exercicio01-arquivos-final.runtimeconfig.json
+E:\trabalhos_avmb\Exercícios\Exercícios_03 - Arquivos\exercicio01-arquivos-final\exercicio01-arquivos-final\bin\Debug\net6.0\exercicio01-arquivos-final.dll
+E:\trabalhos_avmb\Exercícios\Exercícios_03 - Arquivos\exercicio01-arquivos-final\exercicio01-arquivos-final\bin\Debug\net6.0\exercicio01-arquivos-final.pdb
+E:\trabalhos_avmb\Exercícios\Exercícios_03 - Arquivos\exercicio01-arquivos-final\exercicio01-arquivos-final\obj\Debug\net6.0\exercicio01-arquivos-final.csproj.AssemblyReference.cache
+E:\trabalhos_avmb\Exercícios\Exercícios_03 - Arquivos\exercicio01-arquivos-final\exercicio01-arquivos-final\obj\Debug\net6.0\exercicio01-arquivos-final.GeneratedMSBuildEditorConfig.editorconfig
+E:\trabalhos_avmb\Exercícios\Exercícios_03 - Arquivos\exercicio01-arquivos-final\exercicio01-arquivos-final\obj\Debug\net6.0\exercicio01-arquivos-final.AssemblyInfoInputs.cache
+E:\trabalhos_avmb\Exercícios\Exercícios_03 - Arquivos\exercicio01-arquivos-final\exercicio01-arquivos-final\obj\Debug\net6.0\exercicio01-arquivos-final.AssemblyInfo.cs
+E:\trabalhos_avmb\Exercícios\Exercícios_03 - Arquivos\exercicio01-arquivos-final\exercicio01-arquivos-final\obj\Debug\net6.0\exercicio01-arquivos-final.csproj.CoreCompileInputs.cache
+E:\trabalhos_avmb\Exercícios\Exercícios_03 - Arquivos\exercicio01-arquivos-final\exercicio01-arquivos-final\obj\Debug\net6.0\exercicio01-arquivos-final.dll
+E:\trabalhos_avmb\Exercícios\Exercícios_03 - Arquivos\exercicio01-arquivos-final\exercicio01-arquivos-final\obj\Debug\net6.0\refint\exercicio01-arquivos-final.dll
+E:\trabalhos_avmb\Exercícios\Exercícios_03 - Arquivos\exercicio01-arquivos-final\exercicio01-arquivos-final\obj\Debug\net6.0\exercicio01-arquivos-final.pdb
+E:\trabalhos_avmb\Exercícios\Exercícios_03 - Arquivos\exercicio01-arquivos-final\exercicio01-arquivos-final\obj\Debug\net6.0\exercicio01-arquivos-final.genruntimeconfig.cache
+E:\trabalhos_avmb\Exercícios\Exercícios_03 - Arquivos\exercicio01-arquivos-final\exercicio01-arquivos-final\obj\Debug\net6.0\ref\exercicio01-arquivos-final.dll

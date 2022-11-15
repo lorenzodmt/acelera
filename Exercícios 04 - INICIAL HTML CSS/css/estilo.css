@@ -1,0 +1,35 @@
+body{
+    background-image: url(../img/horizon_bg1.png), url(../img/horizon_bg2.png), url(../img/horizon_bg3.jpg);
+    background-position: top, bottom, center;
+    background-size: 100%;
+    background-repeat: no-repeat, no-repeat, no-repeat;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+ul li{
+    text-shadow: 5px 8px 15px;
+    font-size: 170%;
+    display: inline-block;
+    background-color: #000000b7;
+    border-radius: 5px;
+}
+
+.tirarEstilo{
+    text-decoration: none;
+    font-style: inherit;
+    color: inherit;
+}
+
+table, th, td{
+    border: 3px solid white;
+    background-color: #000000b7;
+    width: 50%;
+    border-collapse: collapse;
+}
+
+form{
+    background-color: #000000b7;
+    margin-left: 20%;
+    margin-right: 20%;
+}

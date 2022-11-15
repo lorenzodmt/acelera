@@ -1,0 +1,45 @@
+C:\Users\antho\Desktop\JOGO DA VELHA\Jogo_Da_Velha\Jogo_Da_Velha\obj\Debug\net6.0\Jogo_Da_Velha.csproj.AssemblyReference.cache
+C:\Users\antho\Desktop\JOGO DA VELHA\Jogo_Da_Velha\Jogo_Da_Velha\obj\Debug\net6.0\Jogo_Da_Velha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\Desktop\JOGO DA VELHA\Jogo_Da_Velha\Jogo_Da_Velha\obj\Debug\net6.0\Jogo_Da_Velha.AssemblyInfoInputs.cache
+C:\Users\antho\Desktop\JOGO DA VELHA\Jogo_Da_Velha\Jogo_Da_Velha\obj\Debug\net6.0\Jogo_Da_Velha.AssemblyInfo.cs
+C:\Users\antho\Desktop\JOGO DA VELHA\Jogo_Da_Velha\Jogo_Da_Velha\obj\Debug\net6.0\Jogo_Da_Velha.csproj.CoreCompileInputs.cache
+C:\Users\antho\Desktop\JOGO DA VELHA\Jogo_Da_Velha\Jogo_Da_Velha\bin\Debug\net6.0\Jogo_Da_Velha.exe
+C:\Users\antho\Desktop\JOGO DA VELHA\Jogo_Da_Velha\Jogo_Da_Velha\bin\Debug\net6.0\Jogo_Da_Velha.deps.json
+C:\Users\antho\Desktop\JOGO DA VELHA\Jogo_Da_Velha\Jogo_Da_Velha\bin\Debug\net6.0\Jogo_Da_Velha.runtimeconfig.json
+C:\Users\antho\Desktop\JOGO DA VELHA\Jogo_Da_Velha\Jogo_Da_Velha\bin\Debug\net6.0\Jogo_Da_Velha.dll
+C:\Users\antho\Desktop\JOGO DA VELHA\Jogo_Da_Velha\Jogo_Da_Velha\bin\Debug\net6.0\Jogo_Da_Velha.pdb
+C:\Users\antho\Desktop\JOGO DA VELHA\Jogo_Da_Velha\Jogo_Da_Velha\obj\Debug\net6.0\Jogo_Da_Velha.dll
+C:\Users\antho\Desktop\JOGO DA VELHA\Jogo_Da_Velha\Jogo_Da_Velha\obj\Debug\net6.0\refint\Jogo_Da_Velha.dll
+C:\Users\antho\Desktop\JOGO DA VELHA\Jogo_Da_Velha\Jogo_Da_Velha\obj\Debug\net6.0\Jogo_Da_Velha.pdb
+C:\Users\antho\Desktop\JOGO DA VELHA\Jogo_Da_Velha\Jogo_Da_Velha\obj\Debug\net6.0\Jogo_Da_Velha.genruntimeconfig.cache
+C:\Users\antho\Desktop\JOGO DA VELHA\Jogo_Da_Velha\Jogo_Da_Velha\obj\Debug\net6.0\ref\Jogo_Da_Velha.dll
+G:\Meu Drive\PROJETOS\JOGO DA VELHA\Jogo_Da_Velha\Jogo_Da_Velha\bin\Debug\net6.0\Jogo_Da_Velha.exe
+G:\Meu Drive\PROJETOS\JOGO DA VELHA\Jogo_Da_Velha\Jogo_Da_Velha\bin\Debug\net6.0\Jogo_Da_Velha.deps.json
+G:\Meu Drive\PROJETOS\JOGO DA VELHA\Jogo_Da_Velha\Jogo_Da_Velha\bin\Debug\net6.0\Jogo_Da_Velha.runtimeconfig.json
+G:\Meu Drive\PROJETOS\JOGO DA VELHA\Jogo_Da_Velha\Jogo_Da_Velha\bin\Debug\net6.0\Jogo_Da_Velha.dll
+G:\Meu Drive\PROJETOS\JOGO DA VELHA\Jogo_Da_Velha\Jogo_Da_Velha\bin\Debug\net6.0\Jogo_Da_Velha.pdb
+G:\Meu Drive\PROJETOS\JOGO DA VELHA\Jogo_Da_Velha\Jogo_Da_Velha\obj\Debug\net6.0\Jogo_Da_Velha.csproj.AssemblyReference.cache
+G:\Meu Drive\PROJETOS\JOGO DA VELHA\Jogo_Da_Velha\Jogo_Da_Velha\obj\Debug\net6.0\Jogo_Da_Velha.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\PROJETOS\JOGO DA VELHA\Jogo_Da_Velha\Jogo_Da_Velha\obj\Debug\net6.0\Jogo_Da_Velha.AssemblyInfoInputs.cache
+G:\Meu Drive\PROJETOS\JOGO DA VELHA\Jogo_Da_Velha\Jogo_Da_Velha\obj\Debug\net6.0\Jogo_Da_Velha.AssemblyInfo.cs
+G:\Meu Drive\PROJETOS\JOGO DA VELHA\Jogo_Da_Velha\Jogo_Da_Velha\obj\Debug\net6.0\Jogo_Da_Velha.csproj.CoreCompileInputs.cache
+G:\Meu Drive\PROJETOS\JOGO DA VELHA\Jogo_Da_Velha\Jogo_Da_Velha\obj\Debug\net6.0\Jogo_Da_Velha.dll
+G:\Meu Drive\PROJETOS\JOGO DA VELHA\Jogo_Da_Velha\Jogo_Da_Velha\obj\Debug\net6.0\refint\Jogo_Da_Velha.dll
+G:\Meu Drive\PROJETOS\JOGO DA VELHA\Jogo_Da_Velha\Jogo_Da_Velha\obj\Debug\net6.0\Jogo_Da_Velha.pdb
+G:\Meu Drive\PROJETOS\JOGO DA VELHA\Jogo_Da_Velha\Jogo_Da_Velha\obj\Debug\net6.0\Jogo_Da_Velha.genruntimeconfig.cache
+G:\Meu Drive\PROJETOS\JOGO DA VELHA\Jogo_Da_Velha\Jogo_Da_Velha\obj\Debug\net6.0\ref\Jogo_Da_Velha.dll
+E:\trabalhos_avmb\JOGO DA VELHA\Jogo_Da_Velha\Jogo_Da_Velha\bin\Debug\net6.0\Jogo_Da_Velha.exe
+E:\trabalhos_avmb\JOGO DA VELHA\Jogo_Da_Velha\Jogo_Da_Velha\bin\Debug\net6.0\Jogo_Da_Velha.deps.json
+E:\trabalhos_avmb\JOGO DA VELHA\Jogo_Da_Velha\Jogo_Da_Velha\bin\Debug\net6.0\Jogo_Da_Velha.runtimeconfig.json
+E:\trabalhos_avmb\JOGO DA VELHA\Jogo_Da_Velha\Jogo_Da_Velha\bin\Debug\net6.0\Jogo_Da_Velha.dll
+E:\trabalhos_avmb\JOGO DA VELHA\Jogo_Da_Velha\Jogo_Da_Velha\bin\Debug\net6.0\Jogo_Da_Velha.pdb
+E:\trabalhos_avmb\JOGO DA VELHA\Jogo_Da_Velha\Jogo_Da_Velha\obj\Debug\net6.0\Jogo_Da_Velha.csproj.AssemblyReference.cache
+E:\trabalhos_avmb\JOGO DA VELHA\Jogo_Da_Velha\Jogo_Da_Velha\obj\Debug\net6.0\Jogo_Da_Velha.GeneratedMSBuildEditorConfig.editorconfig
+E:\trabalhos_avmb\JOGO DA VELHA\Jogo_Da_Velha\Jogo_Da_Velha\obj\Debug\net6.0\Jogo_Da_Velha.AssemblyInfoInputs.cache
+E:\trabalhos_avmb\JOGO DA VELHA\Jogo_Da_Velha\Jogo_Da_Velha\obj\Debug\net6.0\Jogo_Da_Velha.AssemblyInfo.cs
+E:\trabalhos_avmb\JOGO DA VELHA\Jogo_Da_Velha\Jogo_Da_Velha\obj\Debug\net6.0\Jogo_Da_Velha.csproj.CoreCompileInputs.cache
+E:\trabalhos_avmb\JOGO DA VELHA\Jogo_Da_Velha\Jogo_Da_Velha\obj\Debug\net6.0\Jogo_Da_Velha.dll
+E:\trabalhos_avmb\JOGO DA VELHA\Jogo_Da_Velha\Jogo_Da_Velha\obj\Debug\net6.0\refint\Jogo_Da_Velha.dll
+E:\trabalhos_avmb\JOGO DA VELHA\Jogo_Da_Velha\Jogo_Da_Velha\obj\Debug\net6.0\Jogo_Da_Velha.pdb
+E:\trabalhos_avmb\JOGO DA VELHA\Jogo_Da_Velha\Jogo_Da_Velha\obj\Debug\net6.0\Jogo_Da_Velha.genruntimeconfig.cache
+E:\trabalhos_avmb\JOGO DA VELHA\Jogo_Da_Velha\Jogo_Da_Velha\obj\Debug\net6.0\ref\Jogo_Da_Velha.dll

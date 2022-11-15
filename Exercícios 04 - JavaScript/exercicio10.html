@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exercício 10</title>
+</head>
+<body>
+    <form method="post">
+        <p>Cadastro de Cliente</p>
+        Nome:
+        <input type="text" name="login" id="login">
+        <br>
+        <form>
+            <input type="radio" id="fisica" onChange="VerificaPessoaFisica()">
+            Pessoa Física
+            <input  type="radio" id="juridica" onChange="VerificaPessoaJuridica()">
+            Pessoa Jurídica
+        </form>
+        <p>
+            CPF:
+            <input type="text" id="cpf" maxlength="11" placeholder="CPF" disabled>    
+            CNPJ:    
+            <input type="text" id="cnpj" maxlength="14" placeholder="CNPJ" disabled>
+        </p>
+        <br>
+        Data de Nascimento:
+        <input type="date" id="data_nasc">
+        <br>
+        Endereço:
+        <input type="text" id="endereco">
+        <br>
+        Cep:
+        <input type="number" id="cep">
+        <br>
+        Telefone:
+        <input type="text" id="telefone">
+        <br>
+        Email:
+        <input type="email" id="email">
+        <script>
+            function VerificaPessoaFisica(){
+                
+                if (document.getElementById("fisica").checked){
+                    document.getElementById("cnpj").disabled = true;
+                    document.getElementById("cpf").disabled = false;
+                    document.getElementById("data_nasc").disabled = false;
+                    document.getElementById("juridica").checked = false;
+                }                
+            }
+            function VerificaPessoaJuridica(){
+                if (document.getElementById("juridica").checked){
+                    document.getElementById("cnpj").disabled = false;                    
+                    document.getElementById("cpf").disabled = true;
+                    document.getElementById("data_nasc").disabled = true;
+                    document.getElementById("fisica").checked = false;
+                }
+            }     
+        </script>
+    </form> 
+</body>
+</html>

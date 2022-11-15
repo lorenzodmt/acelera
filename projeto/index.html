@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nasa</title>
+
+    <link rel="stylesheet" href="css/estilo.css">
+</head>
+<body>
+    <div id="container">
+        <div id="header">
+            <a href="index.html">
+                <img src="img/nasa-logo.png" style="width: 80px;">
+            </a>
+            Informações sobre astronomia
+            <div style="float: right; margin-top: 15px;">
+                <div><a href="index.html">Sobre nós</a></div>
+                <div><a href="index.html">Contato</a></div>
+            </div>
+            <br>
+            
+        </div>
+        <div id="mainnav">
+            <ul>
+                <li><a href="https://www.nasa.gov/topics/humans-in-space/">Humanos no espaço</a></li>
+                |
+                <li><a href="https://www.nasa.gov/topics/moon-to-mars/">Moon to Mars</a></li>
+                |
+                <li><a href="https://www.nasa.gov/topics/earth/index.html">Terra</a></li>
+                |
+                <li><a href="https://www.nasa.gov/topics/technology/index.html">Space Tech</a></li>
+            </ul>
+        </div>
+        <div id="menu">
+            <div>
+                <img src="img/smt-nasa-capa2.jpg" style="width: 165px;">
+            </div>
+            <ul>
+                <div class="liSubpage">
+                    <li><a href="plataformas.html">Plataformas de lançamento de foguetes espaciais</a></li>
+                </div>
+                <br>
+                <div class="liSubpage">
+                    <li><a href="#">Astronautas</a></li>
+                </div>
+                <br>
+                <div class="liSubpage">
+                    <li><a href="#">Planetas</a></li>
+                </div>
+                <br>
+                <div class="liSubpage">
+                    <li><a href="#">Estrelas</a></li>
+                </div>
+                <br>
+                <div class="liSubpage">
+                    <li><a href="#">Cometas</a></li>
+                </div>
+            </ul>  
+        </div>
+        <div id="contents">
+            <div class="noticia">
+                <h2>Luzes 'não identificadas' no céu de Porto Alegre podem ser reflexos do Sol em satélites, diz astrônomo</h2>
+                <h3>Já representante dos aeronautas afirma que pilotos sabem diferenciar luz refletida em satélites. Fotógrafo registrou fenômeno no Litoral Norte do estado.</h3>
+                <p><a href="https://g1.globo.com/rs/rio-grande-do-sul/noticia/2022/11/09/luzes-nao-identificadas-no-ceu-de-porto-alegre-podem-ser-reflexos-do-sol-em-satelites-diz-astronomo.ghtml" target="_blank"><img src="img/luzes-poa.png" width="200"></a>
+                    As luzes não identificadas que intrigam pilotos de avião há cinco dias no céu de Porto Alegre podem ser reflexos do Sol em painéis de satélites. A hipótese é levantada pelo astrônomo e diretor-técnico da Rede Brasileira de Monitoramento de Meteoros, Marcelo Zurita.
+                    <br><br>
+                    O fenômeno vem ocorrendo desde a última sexta-feira (4). Pilotos de aviões comerciais relataram os episódios à torre de controle do Aeroporto Salgado Filho. Zurita afirma, no entanto, que existem diversas possibilidades sob análise.
+                    <br><br>
+                    "A hipótese que a gente está trabalhando e que me parece mais coerente é o que a gente chama de 'flyers de satélite', reflexos da luz do Sol nos painéis de satélites que passam a milhares de quilômetros de distância. Eles acabam refletindo a luz do Sol diretamente na direção do observador e acaba gerando essa condição rara da gente observar esse fenômeno", diz.
+                </p>
+                <ul>
+                <li><a href="https://g1.globo.com/rs/rio-grande-do-sul/noticia/2022/11/09/luzes-nao-identificadas-no-ceu-de-porto-alegre-podem-ser-reflexos-do-sol-em-satelites-diz-astronomo.ghtml" id="linkG1" onmouseover="mudarCor()" onmouseleave="voltarCor()" onmouse="clique()" style="color: blue;" target="_blank">Clique aqui para conferir matéria completa</a></li>
+                </ul>  
+            </div>  
+        </div>  
+        <div id="footer">
+            Copyright © Lorenzo Togni 2022  
+        </div>
+        <script>
+            function mudarCor(){
+                document.getElementById("linkG1").style.color = "red";
+            }
+            function voltarCor(){
+                document.getElementById("linkG1").style.color = "blue";
+            }
+            function clique(){
+                document.getElementById("linkG1").alert("Você está sendo direcionado para uma nova página");
+            }
+        </script>
+    </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exercício 03</title>
+</head>
+<body id="corpo">
+    <table>
+        <tr>
+            <th>
+                <input onclick="funcaoVermelho()" name="botao" id="vermelho" type="radio">Vermelho
+                <br>
+            </th>
+            <th>
+                <input onclick="funcaoVerde()" name="botao" id="verde" type="radio">Verde
+                <br>
+            </th>
+            <th>
+                <input onclick="funcaoAzul()" name="botao" id="azul" type="radio">Azul
+                <br>
+            </th>
+            <th>
+                <input onclick="funcaoAmarelo()" name="botao" id="amarelo" type="radio">Amarelo
+                <br>
+            </th>
+        </tr>
+    </table>   
+
+    <script>
+        function funcaoVermelho(){
+            corpo.style.backgroundColor = "red";
+        }
+        function funcaoVerde(){
+            corpo.style.backgroundColor = "green";
+        }
+        function funcaoAzul(){
+            corpo.style.backgroundColor = "blue";
+        }
+        function funcaoAmarelo(){
+            corpo.style.backgroundColor = "yellow";
+        }
+    </script>
+</body>
+</html>

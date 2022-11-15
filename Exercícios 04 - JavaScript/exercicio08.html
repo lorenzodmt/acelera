@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exercício 08</title>
+</head>
+<body>
+    <div id="fundo">
+        <p id="paragrafo">
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore, assumenda
+            nihil! Eius omnis ab velit vero itaque excepturi, est ipsum provident ratione 
+            error amet perferendis libero quod, nulla quae suscipit?
+        </p>
+    </div>
+    <table style="border: solid 3px black;">
+        <thead>
+            <th>Fonte</th>
+            <th>Fundo</th>
+        </thead>
+        <tbody>
+            <tr>
+                <td>
+                    <input onclick="fonteBranca()" name="fonte" id="fonteBranca" type="radio">Fonte Branca
+                    <br>
+                </td>
+                <td>
+                    <input onclick="fundoBranco()" name="fundo" id="fundoBranco" type="radio">Fundo Branco
+                    <br>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <input onclick="fontePreta()" name="fonte" id="fontePreta" type="radio">Fonte Preta
+                    <br>
+                </td>
+                <td>
+                    <input onclick="fundoPreto()" name="fundo" id="fundoPreto" type="radio">Fundo Preto
+                    <br>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <hr>
+                    <input onclick="aumentar()" name="tamanho" id="aumentar"  type="radio">Aumentar Fonte
+                    <br>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <input onclick="diminuir()" name="tamanho" id="diminuir"  type="radio">Diminuir Fonte
+                    <br>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <hr>
+                    <input onclick="maiuscula()" name="maiusculaMinuscula" id="maiuscula"  type="radio">Fonte Maiúscula
+                    <br>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <input onclick="minuscula()" name="maiusculaMinuscula" id="minuscula"  type="radio">Fonte Minúscula
+                    <br>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <input onclick="primeiraMaiuscula()" name="maiusculaMinuscula" id="primeiraMaiuscula"  type="radio">Fonte Primeira Maiúscula
+                    <br>
+                </td>
+            </tr>
+        </tbody>
+    </table>   
+    <script>
+        function fonteBranca(){
+            document.getElementById("paragrafo").style.color = "white";
+        }
+        function fontePreta(){
+            document.getElementById("paragrafo").style.color = "black";
+        }
+        function fundoBranco(){
+            document.getElementById("fundo").style.backgroundColor = "white";
+        }
+        function fundoPreto(){
+            document.getElementById("fundo").style.backgroundColor = "black";
+        }
+        function aumentar(){
+            document.getElementById("paragrafo").style.fontSize = "larger";
+        }
+        function diminuir(){
+            document.getElementById("paragrafo").style.fontSize = "smaller";
+        }
+        function maiuscula(){
+            document.getElementById("paragrafo").style.textTransform = "upperCase";
+        }
+        function minuscula(){
+            document.getElementById("paragrafo").style.textTransform = "lowerCase";
+        }
+        function primeiraMaiuscula(){
+            document.getElementById("paragrafo").style.textTransform = "capitalize";
+        }
+    </script>
+</body>
+</html>

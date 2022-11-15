@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exercício 09</title>
+</head>
+<body>
+    <form method="post">
+        <p>Cadastro</p>
+        Login:
+        <input type="text" name="login" id="login">
+        <br>
+        Senha:
+        <input type="password" name="senha" id="senha" minlength="6" maxlength="10">
+        <br>
+        Confirmar senha:
+        <input type="password" name="senha" id="confirmarSenha" minlength="6" maxlength="10">
+        <br>
+        <button onclick="liberarBotao()" id="botao">Salvar</button>
+    </form>
+        <script>
+            function liberarBotao(){
+                var senha = document.getElementById("senha").value;
+                var confirmarSenha = document.getElementById("confirmarSenha").value;
+                if (senha != confirmarSenha){
+                    alert("As senhas precisam ser iguais!");
+                }else{
+                    document.getElementById("botao").submit()
+                }
+            }
+        </script>
+</body>
+</html>

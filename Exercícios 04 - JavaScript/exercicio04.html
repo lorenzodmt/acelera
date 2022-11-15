@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exercício 04</title>
+</head>
+<body>
+    <p id="paragrafo">Conteúdo</p>
+    <button onclick="mostrarParagrafo()">Mostrar Texto</button>
+    <button onclick="ocultarParagrafo()">Ocultar Texto</button>
+
+    <script>
+        function mostrarParagrafo(){
+            var scrParagrafo = document.getElementById("paragrafo").hidden=false;
+        }
+        function ocultarParagrafo(){
+            var scrParagrafo = document.getElementById("paragrafo").hidden=true;
+        }
+    </script>
+</body>
+</html>

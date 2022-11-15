@@ -1,0 +1,45 @@
+C:\Users\lorenzo.togni\source\repos\Exercícios Matrizes\Exercícios Matrizes\bin\Debug\net6.0\Exercícios Matrizes.exe
+C:\Users\lorenzo.togni\source\repos\Exercícios Matrizes\Exercícios Matrizes\bin\Debug\net6.0\Exercícios Matrizes.deps.json
+C:\Users\lorenzo.togni\source\repos\Exercícios Matrizes\Exercícios Matrizes\bin\Debug\net6.0\Exercícios Matrizes.runtimeconfig.json
+C:\Users\lorenzo.togni\source\repos\Exercícios Matrizes\Exercícios Matrizes\bin\Debug\net6.0\Exercícios Matrizes.dll
+C:\Users\lorenzo.togni\source\repos\Exercícios Matrizes\Exercícios Matrizes\bin\Debug\net6.0\Exercícios Matrizes.pdb
+C:\Users\lorenzo.togni\source\repos\Exercícios Matrizes\Exercícios Matrizes\obj\Debug\net6.0\Exercícios Matrizes.csproj.AssemblyReference.cache
+C:\Users\lorenzo.togni\source\repos\Exercícios Matrizes\Exercícios Matrizes\obj\Debug\net6.0\Exercícios Matrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lorenzo.togni\source\repos\Exercícios Matrizes\Exercícios Matrizes\obj\Debug\net6.0\Exercícios Matrizes.AssemblyInfoInputs.cache
+C:\Users\lorenzo.togni\source\repos\Exercícios Matrizes\Exercícios Matrizes\obj\Debug\net6.0\Exercícios Matrizes.AssemblyInfo.cs
+C:\Users\lorenzo.togni\source\repos\Exercícios Matrizes\Exercícios Matrizes\obj\Debug\net6.0\Exercícios Matrizes.csproj.CoreCompileInputs.cache
+C:\Users\lorenzo.togni\source\repos\Exercícios Matrizes\Exercícios Matrizes\obj\Debug\net6.0\Exercícios Matrizes.dll
+C:\Users\lorenzo.togni\source\repos\Exercícios Matrizes\Exercícios Matrizes\obj\Debug\net6.0\refint\Exercícios Matrizes.dll
+C:\Users\lorenzo.togni\source\repos\Exercícios Matrizes\Exercícios Matrizes\obj\Debug\net6.0\Exercícios Matrizes.pdb
+C:\Users\lorenzo.togni\source\repos\Exercícios Matrizes\Exercícios Matrizes\obj\Debug\net6.0\Exercícios Matrizes.genruntimeconfig.cache
+C:\Users\lorenzo.togni\source\repos\Exercícios Matrizes\Exercícios Matrizes\obj\Debug\net6.0\ref\Exercícios Matrizes.dll
+D:\trabalhos_avmb\Exercícios\Exercícios_02 - Matrizes\Exercícios Matrizes\bin\Debug\net6.0\Exercícios Matrizes.exe
+D:\trabalhos_avmb\Exercícios\Exercícios_02 - Matrizes\Exercícios Matrizes\bin\Debug\net6.0\Exercícios Matrizes.deps.json
+D:\trabalhos_avmb\Exercícios\Exercícios_02 - Matrizes\Exercícios Matrizes\bin\Debug\net6.0\Exercícios Matrizes.runtimeconfig.json
+D:\trabalhos_avmb\Exercícios\Exercícios_02 - Matrizes\Exercícios Matrizes\bin\Debug\net6.0\Exercícios Matrizes.dll
+D:\trabalhos_avmb\Exercícios\Exercícios_02 - Matrizes\Exercícios Matrizes\bin\Debug\net6.0\Exercícios Matrizes.pdb
+D:\trabalhos_avmb\Exercícios\Exercícios_02 - Matrizes\Exercícios Matrizes\obj\Debug\net6.0\Exercícios Matrizes.csproj.AssemblyReference.cache
+D:\trabalhos_avmb\Exercícios\Exercícios_02 - Matrizes\Exercícios Matrizes\obj\Debug\net6.0\Exercícios Matrizes.GeneratedMSBuildEditorConfig.editorconfig
+D:\trabalhos_avmb\Exercícios\Exercícios_02 - Matrizes\Exercícios Matrizes\obj\Debug\net6.0\Exercícios Matrizes.AssemblyInfoInputs.cache
+D:\trabalhos_avmb\Exercícios\Exercícios_02 - Matrizes\Exercícios Matrizes\obj\Debug\net6.0\Exercícios Matrizes.AssemblyInfo.cs
+D:\trabalhos_avmb\Exercícios\Exercícios_02 - Matrizes\Exercícios Matrizes\obj\Debug\net6.0\Exercícios Matrizes.csproj.CoreCompileInputs.cache
+D:\trabalhos_avmb\Exercícios\Exercícios_02 - Matrizes\Exercícios Matrizes\obj\Debug\net6.0\Exercícios Matrizes.dll
+D:\trabalhos_avmb\Exercícios\Exercícios_02 - Matrizes\Exercícios Matrizes\obj\Debug\net6.0\refint\Exercícios Matrizes.dll
+D:\trabalhos_avmb\Exercícios\Exercícios_02 - Matrizes\Exercícios Matrizes\obj\Debug\net6.0\Exercícios Matrizes.pdb
+D:\trabalhos_avmb\Exercícios\Exercícios_02 - Matrizes\Exercícios Matrizes\obj\Debug\net6.0\Exercícios Matrizes.genruntimeconfig.cache
+D:\trabalhos_avmb\Exercícios\Exercícios_02 - Matrizes\Exercícios Matrizes\obj\Debug\net6.0\ref\Exercícios Matrizes.dll
+E:\trabalhos_avmb\Exercícios\Exercícios_02 - Matrizes\Exercícios Matrizes\bin\Debug\net6.0\Exercícios Matrizes.exe
+E:\trabalhos_avmb\Exercícios\Exercícios_02 - Matrizes\Exercícios Matrizes\bin\Debug\net6.0\Exercícios Matrizes.deps.json
+E:\trabalhos_avmb\Exercícios\Exercícios_02 - Matrizes\Exercícios Matrizes\bin\Debug\net6.0\Exercícios Matrizes.runtimeconfig.json
+E:\trabalhos_avmb\Exercícios\Exercícios_02 - Matrizes\Exercícios Matrizes\bin\Debug\net6.0\Exercícios Matrizes.dll
+E:\trabalhos_avmb\Exercícios\Exercícios_02 - Matrizes\Exercícios Matrizes\bin\Debug\net6.0\Exercícios Matrizes.pdb
+E:\trabalhos_avmb\Exercícios\Exercícios_02 - Matrizes\Exercícios Matrizes\obj\Debug\net6.0\Exercícios Matrizes.csproj.AssemblyReference.cache
+E:\trabalhos_avmb\Exercícios\Exercícios_02 - Matrizes\Exercícios Matrizes\obj\Debug\net6.0\Exercícios Matrizes.GeneratedMSBuildEditorConfig.editorconfig
+E:\trabalhos_avmb\Exercícios\Exercícios_02 - Matrizes\Exercícios Matrizes\obj\Debug\net6.0\Exercícios Matrizes.AssemblyInfoInputs.cache
+E:\trabalhos_avmb\Exercícios\Exercícios_02 - Matrizes\Exercícios Matrizes\obj\Debug\net6.0\Exercícios Matrizes.AssemblyInfo.cs
+E:\trabalhos_avmb\Exercícios\Exercícios_02 - Matrizes\Exercícios Matrizes\obj\Debug\net6.0\Exercícios Matrizes.csproj.CoreCompileInputs.cache
+E:\trabalhos_avmb\Exercícios\Exercícios_02 - Matrizes\Exercícios Matrizes\obj\Debug\net6.0\Exercícios Matrizes.dll
+E:\trabalhos_avmb\Exercícios\Exercícios_02 - Matrizes\Exercícios Matrizes\obj\Debug\net6.0\refint\Exercícios Matrizes.dll
+E:\trabalhos_avmb\Exercícios\Exercícios_02 - Matrizes\Exercícios Matrizes\obj\Debug\net6.0\Exercícios Matrizes.pdb
+E:\trabalhos_avmb\Exercícios\Exercícios_02 - Matrizes\Exercícios Matrizes\obj\Debug\net6.0\Exercícios Matrizes.genruntimeconfig.cache
+E:\trabalhos_avmb\Exercícios\Exercícios_02 - Matrizes\Exercícios Matrizes\obj\Debug\net6.0\ref\Exercícios Matrizes.dll
