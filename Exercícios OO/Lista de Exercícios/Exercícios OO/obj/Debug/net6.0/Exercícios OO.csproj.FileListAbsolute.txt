@@ -1,0 +1,45 @@
+F:\trabalhos_avmb\Exercícios\exercicio\Exercícios OO\Exercícios OO\obj\Debug\net6.0\Exercícios OO.csproj.AssemblyReference.cache
+F:\trabalhos_avmb\Exercícios\exercicio\Exercícios OO\Exercícios OO\obj\Debug\net6.0\Exercícios OO.GeneratedMSBuildEditorConfig.editorconfig
+F:\trabalhos_avmb\Exercícios\exercicio\Exercícios OO\Exercícios OO\obj\Debug\net6.0\Exercícios OO.AssemblyInfoInputs.cache
+F:\trabalhos_avmb\Exercícios\exercicio\Exercícios OO\Exercícios OO\obj\Debug\net6.0\Exercícios OO.AssemblyInfo.cs
+F:\trabalhos_avmb\Exercícios\exercicio\Exercícios OO\Exercícios OO\obj\Debug\net6.0\Exercícios OO.csproj.CoreCompileInputs.cache
+F:\trabalhos_avmb\Exercícios\exercicio\Exercícios OO\Exercícios OO\bin\Debug\net6.0\Exercícios OO.exe
+F:\trabalhos_avmb\Exercícios\exercicio\Exercícios OO\Exercícios OO\bin\Debug\net6.0\Exercícios OO.deps.json
+F:\trabalhos_avmb\Exercícios\exercicio\Exercícios OO\Exercícios OO\bin\Debug\net6.0\Exercícios OO.runtimeconfig.json
+F:\trabalhos_avmb\Exercícios\exercicio\Exercícios OO\Exercícios OO\bin\Debug\net6.0\Exercícios OO.dll
+F:\trabalhos_avmb\Exercícios\exercicio\Exercícios OO\Exercícios OO\bin\Debug\net6.0\Exercícios OO.pdb
+F:\trabalhos_avmb\Exercícios\exercicio\Exercícios OO\Exercícios OO\obj\Debug\net6.0\Exercícios OO.dll
+F:\trabalhos_avmb\Exercícios\exercicio\Exercícios OO\Exercícios OO\obj\Debug\net6.0\refint\Exercícios OO.dll
+F:\trabalhos_avmb\Exercícios\exercicio\Exercícios OO\Exercícios OO\obj\Debug\net6.0\Exercícios OO.pdb
+F:\trabalhos_avmb\Exercícios\exercicio\Exercícios OO\Exercícios OO\obj\Debug\net6.0\Exercícios OO.genruntimeconfig.cache
+F:\trabalhos_avmb\Exercícios\exercicio\Exercícios OO\Exercícios OO\obj\Debug\net6.0\ref\Exercícios OO.dll
+D:\trabalhos_avmb\Exercícios\Exercícios OO\Exercícios OO\bin\Debug\net6.0\Exercícios OO.exe
+D:\trabalhos_avmb\Exercícios\Exercícios OO\Exercícios OO\bin\Debug\net6.0\Exercícios OO.deps.json
+D:\trabalhos_avmb\Exercícios\Exercícios OO\Exercícios OO\bin\Debug\net6.0\Exercícios OO.runtimeconfig.json
+D:\trabalhos_avmb\Exercícios\Exercícios OO\Exercícios OO\bin\Debug\net6.0\Exercícios OO.dll
+D:\trabalhos_avmb\Exercícios\Exercícios OO\Exercícios OO\bin\Debug\net6.0\Exercícios OO.pdb
+D:\trabalhos_avmb\Exercícios\Exercícios OO\Exercícios OO\obj\Debug\net6.0\Exercícios OO.csproj.AssemblyReference.cache
+D:\trabalhos_avmb\Exercícios\Exercícios OO\Exercícios OO\obj\Debug\net6.0\Exercícios OO.GeneratedMSBuildEditorConfig.editorconfig
+D:\trabalhos_avmb\Exercícios\Exercícios OO\Exercícios OO\obj\Debug\net6.0\Exercícios OO.AssemblyInfoInputs.cache
+D:\trabalhos_avmb\Exercícios\Exercícios OO\Exercícios OO\obj\Debug\net6.0\Exercícios OO.AssemblyInfo.cs
+D:\trabalhos_avmb\Exercícios\Exercícios OO\Exercícios OO\obj\Debug\net6.0\Exercícios OO.csproj.CoreCompileInputs.cache
+D:\trabalhos_avmb\Exercícios\Exercícios OO\Exercícios OO\obj\Debug\net6.0\Exercícios OO.dll
+D:\trabalhos_avmb\Exercícios\Exercícios OO\Exercícios OO\obj\Debug\net6.0\refint\Exercícios OO.dll
+D:\trabalhos_avmb\Exercícios\Exercícios OO\Exercícios OO\obj\Debug\net6.0\Exercícios OO.pdb
+D:\trabalhos_avmb\Exercícios\Exercícios OO\Exercícios OO\obj\Debug\net6.0\Exercícios OO.genruntimeconfig.cache
+D:\trabalhos_avmb\Exercícios\Exercícios OO\Exercícios OO\obj\Debug\net6.0\ref\Exercícios OO.dll
+F:\trabalhos_avmb\Exercícios\Exercícios OO\Lista de Exercícios\Exercícios OO\bin\Debug\net6.0\Exercícios OO.exe
+F:\trabalhos_avmb\Exercícios\Exercícios OO\Lista de Exercícios\Exercícios OO\bin\Debug\net6.0\Exercícios OO.deps.json
+F:\trabalhos_avmb\Exercícios\Exercícios OO\Lista de Exercícios\Exercícios OO\bin\Debug\net6.0\Exercícios OO.runtimeconfig.json
+F:\trabalhos_avmb\Exercícios\Exercícios OO\Lista de Exercícios\Exercícios OO\bin\Debug\net6.0\Exercícios OO.dll
+F:\trabalhos_avmb\Exercícios\Exercícios OO\Lista de Exercícios\Exercícios OO\bin\Debug\net6.0\Exercícios OO.pdb
+F:\trabalhos_avmb\Exercícios\Exercícios OO\Lista de Exercícios\Exercícios OO\obj\Debug\net6.0\Exercícios OO.csproj.AssemblyReference.cache
+F:\trabalhos_avmb\Exercícios\Exercícios OO\Lista de Exercícios\Exercícios OO\obj\Debug\net6.0\Exercícios OO.GeneratedMSBuildEditorConfig.editorconfig
+F:\trabalhos_avmb\Exercícios\Exercícios OO\Lista de Exercícios\Exercícios OO\obj\Debug\net6.0\Exercícios OO.AssemblyInfoInputs.cache
+F:\trabalhos_avmb\Exercícios\Exercícios OO\Lista de Exercícios\Exercícios OO\obj\Debug\net6.0\Exercícios OO.AssemblyInfo.cs
+F:\trabalhos_avmb\Exercícios\Exercícios OO\Lista de Exercícios\Exercícios OO\obj\Debug\net6.0\Exercícios OO.csproj.CoreCompileInputs.cache
+F:\trabalhos_avmb\Exercícios\Exercícios OO\Lista de Exercícios\Exercícios OO\obj\Debug\net6.0\Exercícios OO.dll
+F:\trabalhos_avmb\Exercícios\Exercícios OO\Lista de Exercícios\Exercícios OO\obj\Debug\net6.0\refint\Exercícios OO.dll
+F:\trabalhos_avmb\Exercícios\Exercícios OO\Lista de Exercícios\Exercícios OO\obj\Debug\net6.0\Exercícios OO.pdb
+F:\trabalhos_avmb\Exercícios\Exercícios OO\Lista de Exercícios\Exercícios OO\obj\Debug\net6.0\Exercícios OO.genruntimeconfig.cache
+F:\trabalhos_avmb\Exercícios\Exercícios OO\Lista de Exercícios\Exercícios OO\obj\Debug\net6.0\ref\Exercícios OO.dll

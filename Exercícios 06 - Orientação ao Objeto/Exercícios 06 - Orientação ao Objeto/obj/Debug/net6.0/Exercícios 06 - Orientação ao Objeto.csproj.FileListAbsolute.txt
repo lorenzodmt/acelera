@@ -1,0 +1,10 @@
+F:\trabalhos_avmb\Exercícios\Exercícios 06 - Orientação ao Objeto\Exercícios 06 - Orientação ao Objeto\obj\Debug\net6.0\Exercícios 06 - Orientação ao Objeto.csproj.AssemblyReference.cache
+F:\trabalhos_avmb\Exercícios\Exercícios 06 - Orientação ao Objeto\Exercícios 06 - Orientação ao Objeto\obj\Debug\net6.0\Exercícios 06 - Orientação ao Objeto.GeneratedMSBuildEditorConfig.editorconfig
+F:\trabalhos_avmb\Exercícios\Exercícios 06 - Orientação ao Objeto\Exercícios 06 - Orientação ao Objeto\obj\Debug\net6.0\Exercícios 06 - Orientação ao Objeto.AssemblyInfoInputs.cache
+F:\trabalhos_avmb\Exercícios\Exercícios 06 - Orientação ao Objeto\Exercícios 06 - Orientação ao Objeto\obj\Debug\net6.0\Exercícios 06 - Orientação ao Objeto.AssemblyInfo.cs
+F:\trabalhos_avmb\Exercícios\Exercícios 06 - Orientação ao Objeto\Exercícios 06 - Orientação ao Objeto\obj\Debug\net6.0\Exercícios 06 - Orientação ao Objeto.csproj.CoreCompileInputs.cache
+D:\trabalhos_avmb\Exercícios\Exercícios 06 - Orientação ao Objeto\Exercícios 06 - Orientação ao Objeto\obj\Debug\net6.0\Exercícios 06 - Orientação ao Objeto.csproj.AssemblyReference.cache
+D:\trabalhos_avmb\Exercícios\Exercícios 06 - Orientação ao Objeto\Exercícios 06 - Orientação ao Objeto\obj\Debug\net6.0\Exercícios 06 - Orientação ao Objeto.GeneratedMSBuildEditorConfig.editorconfig
+D:\trabalhos_avmb\Exercícios\Exercícios 06 - Orientação ao Objeto\Exercícios 06 - Orientação ao Objeto\obj\Debug\net6.0\Exercícios 06 - Orientação ao Objeto.AssemblyInfoInputs.cache
+D:\trabalhos_avmb\Exercícios\Exercícios 06 - Orientação ao Objeto\Exercícios 06 - Orientação ao Objeto\obj\Debug\net6.0\Exercícios 06 - Orientação ao Objeto.AssemblyInfo.cs
+D:\trabalhos_avmb\Exercícios\Exercícios 06 - Orientação ao Objeto\Exercícios 06 - Orientação ao Objeto\obj\Debug\net6.0\Exercícios 06 - Orientação ao Objeto.csproj.CoreCompileInputs.cache

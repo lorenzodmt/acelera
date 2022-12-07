@@ -1,4 +1,4 @@
-create table DBSM.PREDIOS_A (
+create table DBSM.PREDIOS_Lorenzo (
     ID_PREDIO integer not null primary key,
     ID_BEM integer,
     NOME_PREDIO varchar(60),
@@ -14,9 +14,12 @@ create table DBSM.PREDIOS_A (
     DT_ALTERACAO date,
     HR_ALTERACAO date,
     CONCORRENCIA integer,
-    ENDERECO_FISICO varchar(15));
+    ENDERECO_FISICO varchar(15))
 
-create table DBSM.ESPACOS_A (
+
+
+
+create table DBSM.ESPACOS_Lorenzo (
     ID_ESPACO integer not null primary key,
     ID_PREDIO integer references PREDIOS_A(ID_PREDIO),
     NOME_ESPACO varchar(40),
@@ -26,3 +29,9 @@ create table DBSM.ESPACOS_A (
     TIPO_ESPACO_ITEM integer,
     TIPO_ESPACO_TAB integer,
     NUM_SALA varchar(10),
+    COD_OPERADOR integer,
+    DT_ALTERACAO date,
+    HR_ALTERACAO date,
+    CONCORRENCIA integer,
+    ENDERECO_FISICO varchar(15))
+
